@@ -6,3 +6,10 @@ Website that showcases different restaurant/cafe locations with photos of aesthe
 - Form/Button to let admin know if location has changed
 - Query search: specific locations, general type(i.e cafe, restaurant, fast food), tags
 - Do we want a user to be able to upload a place? Or do we want a way to submit a location with user images so admin can screen?
+
+##Things to be done
+- Logo
+- Tagline
+- Design
+- Color Palette
+- Wireframes
