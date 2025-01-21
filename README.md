@@ -7,9 +7,16 @@ Website that showcases different restaurant/cafe locations with photos of aesthe
 - Query search: specific locations, general type(i.e cafe, restaurant, fast food), tags
 - Do we want a user to be able to upload a place? Or do we want a way to submit a location with user images so admin can screen?
 
-##Things to be done
+# Things to be done
 - Logo
 - Tagline
 - Design
 - Color Palette
 - Wireframes
+
+
+## VR Ideas:
+- Education Based:
+    * Language Learning (Different areas in the world where you can learn languages)
+    * how to drive lol
+    * 
