@@ -19,4 +19,4 @@ Website that showcases different restaurant/cafe locations with photos of aesthe
 - Education Based:
     * Language Learning (Different areas in the world where you can learn languages)
     * how to drive lol
-    * 
+    * how to cook recipes 
